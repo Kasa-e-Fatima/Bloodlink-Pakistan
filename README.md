@@ -101,7 +101,7 @@ Phase	Plan
 1 (about 3 months)	Backend integration (PostgreSQL, REST APIs) so donors, inventory and points persist
 2 (about 6 months)	Real pilot with 2-3 hospitals and an SMS gateway, the first step that can test whether prioritised contact actually raises donor response
 3 (about 12 months)	Mobile app and Urdu interface
-4 (18+ months)	Wider expansion with institutional partners
+4 (18+ months)	Wider expansion with institutional partners 
 These are plans, not completed work.
 
 Authors and credits
